@@ -1,0 +1,16 @@
+body{
+  background-color: aliceblue;
+  text-align: center;
+}
+
+.wrapper{
+  background-color: LemonChiffon;
+}
+
+.goed{
+	background-color = green;
+}
+
+.fout{
+	background-color = red;
+}
